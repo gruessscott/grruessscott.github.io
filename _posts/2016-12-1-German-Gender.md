@@ -1,16 +1,16 @@
 ---
 layout: post
-title: German - The Gender of Nouns
+title: Learning German - The Gender of Nouns
 category: german
 ---
-# The Gender of Nouns
-## Being sexist
 
 For native English speakers, learning languages where the gender of the
 nouns is important for the grammar, like in German, can be daunting. Why
 is it "die Sonne", but "der Mond"? They're both objects up in the sky that
 are bright, right? In this article, I explain the trick that I learned
-when I first started German.
+based on an idea my wife had when I first started German.
+
+## Being sexist
 
 When learning vocabulary words, there's no getting around memorizing the
 articles with their nouns, but using a pattern or a story can really
