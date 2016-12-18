@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just another hacker.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Eventually, I may include some more details here.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[blog@gruessscott.com](mailto:blog@gruessscott.com)
